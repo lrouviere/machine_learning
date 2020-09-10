@@ -3,6 +3,8 @@
 
 - [slides](cours.pdf)
 - [slides au format rapport](cours_article.pdf)
+- [tutoriel]()
+
 
 ### Exercices, notebook
 
