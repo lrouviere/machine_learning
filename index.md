@@ -4,7 +4,7 @@ Ce cours présente une introduction aux principaux algorithmes de machine learni
 - **Support vector machine**, cas séparable, non séparable et astuce du noyau ;
 - **Arbres**, notamment l'algorithme CART ;
 - **Agrégation d'arbres**, forêts aléatoires et gradient boosting ;
-- **Réseaux de neurones et introduction au deep learning**, perceptron maulticouches avec `keras`.
+- **Réseaux de neurones et introduction au deep learning**, perceptron multicouches avec `keras`.
 
 
 
