@@ -1,4 +1,4 @@
-Ce cours présente une introduction aux principaux algorithmes de machine learning ainsi que leurs mises en oeuvre sur R. Les thèmes suivants sont abordés :
+Ce cours présente une introduction aux principaux algorithmes de machine learning, ainsi que leurs mises en oeuvre sur R. Les thèmes suivants sont abordés :
 
 - **Notions de risque et calcul de risque en apprentissage supervisé**, fonction de perte, méthodes de ré-échantillonnage (hold-out, validation croisée)   
 - **Support vector machine**, cas séparable, non séparable et astuce du noyau ;
