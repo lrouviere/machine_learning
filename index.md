@@ -14,4 +14,4 @@ Ce cours présente une introduction aux principaux algorithmes de machine learni
 - [slides au format rapport](cours_article.pdf)
 - [tutoriel sans corrigés](https://lrouviere.github.io/TUTO_ML/), [codes R associés](codes_sans_cor.R)
 - [tutoriel avec corrigés](https://lrouviere.github.io/TUTO_ML/correction/) (pas toujours disponible), [code R associés](codes_avec_cor.R)
-
+- [tutoriel court](tuto_court_ml.html)
