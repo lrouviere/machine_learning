@@ -71,11 +71,10 @@ final_ppv <-
 
 ## ----tunegrid-ppv-auc, teacher=correct,cache=TRUE-----------------------------
 auc.cv <- ppv_wf %>% 
-  tune_grid(
-resamples = re_ech_cv,
-grid = grille_k,
-control=control_resamples(save_pred = TRUE),
-metrics=metric_set(roc_auc))
+  tune_grid(resamples = re_ech_cv,
+        grid = grille_k,
+        control=control_resamples(save_pred = TRUE),
+        metrics=metric_set(roc_auc))
 auc.cv %>% collect_metrics()
 
 ## ----teacher=correct----------------------------------------------------------
@@ -109,7 +108,7 @@ plot(ridge.cv)
 prev.ridge <- predict(ridge.cv,newx=X.test,type="response") %>% as.numeric()
 tbl.prev$Ridge <- prev.ridge
 
-## -----------------------------------------------------------------------------
+## ----teacher=correct----------------------------------------------------------
 set.seed(123)
 lasso.cv <- cv.glmnet(X.app,Y.app,alpha=1,family=binomial)
 plot(lasso.cv)
