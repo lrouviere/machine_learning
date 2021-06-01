@@ -30,7 +30,7 @@ Cette page propose quelques supports de cours sur les algotithmes machine learni
     - [slides complet au format rapport](cours_cepe_article.pdf)
 - Tutoriel
     - [version non corrigée](tuto_court_ml_sans_correc.html)
-    - [version corrigée](tuto_court_ml_avec_correc.html)
+    - [version corrigée](tuto_court_ml_avec_correc.html), [en pdf](tuto_court_ml.pdf)
     - [codes R](tuto_court_ml.R)
     
 
