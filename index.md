@@ -33,4 +33,14 @@ Cette page propose quelques supports de cours sur les algotithmes machine learni
     - [version corrigée](tuto_court_ml_avec_correc.html), [en pdf](tuto_court_ml.pdf)
     - [codes R](tuto_court_ml.R)
     
+### Formation CEPE des 24 et 25 juin 2021
+
+- Partie cours
+    - [slides complet](cours_cepe.pdf)
+    - [slides complet au format rapport](cours_cepe_article.pdf)
+- Tutoriel
+    - [version non corrigée](tuto_court_ml_sans_correc.html)
+    - [version corrigée](tuto_court_ml_avec_correc.html), [en pdf](tuto_court_ml.pdf)
+    - [codes R](tuto_court_ml.R)
+
 
