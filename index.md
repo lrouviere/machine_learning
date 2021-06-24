@@ -42,5 +42,6 @@ Cette page propose quelques supports de cours sur les algotithmes machine learni
     - [version non corrigée](tuto_court_intro_ml.html)
     - [version corrigée](tuto_court_intro_ml_avec_correc.html), [en pdf](tuto_court_intro_ml_avec_correc.pdf)
     - [codes R](tuto_court_intro_ml.R)
+    - [données ozone](ozone.txt)
 
 
