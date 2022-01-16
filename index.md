@@ -1,6 +1,7 @@
 Cette page propose quelques supports de cours sur les algotithmes machine learning standard en classification supervisée. Les thèmes suivants sont abordés :
 
-- **Notions de risque et calcul de risque en apprentissage supervisé**, fonction de perte, méthodes de ré-échantillonnage (hold-out, validation croisée) - **Algorithmes linéaires**
+- **Notions de risque et calcul de risque en apprentissage supervisé**, fonction de perte, méthodes de ré-échantillonnage (hold-out, validation croisée) 
+- **Algorithmes linéaires**
     - Moindres carrés ordinaires
     - Sélection de variables
     - Régulatisation : ridge, lasso...
