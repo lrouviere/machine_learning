@@ -2,7 +2,7 @@ Cette page propose quelques supports de cours sur les algotithmes machine learni
 
 - **Notions de risque et calcul de risque en apprentissage supervisé**, fonction de perte, méthodes de ré-échantillonnage (hold-out, validation croisée) 
 - **Algorithmes linéaires**
-    - Moindres carrés ordinaires
+    - Moindres carrés ordinairesp
     - Sélection de variables
     - Régulatisation : ridge, lasso...
     - Support vector machine : cas séparable, non séparable et astuce du noyau
