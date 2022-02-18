@@ -1,4 +1,4 @@
-Cette page propose quelques supports de cours sur les algorithmes machine learning standard en classification supervisée. Les thèmes suivants sont abordés :
+Cette page propose quelques supports de cours sur les algorithmes  machine learning standard en classification supervisée. Les thèmes suivants sont abordés :
 
 - **Notions de risque et calcul de risque en apprentissage supervisé**, fonction de perte, méthodes de ré-échantillonnage (hold-out, validation croisée) 
 - **Algorithmes linéaires**
@@ -19,8 +19,8 @@ Cette page propose quelques supports de cours sur les algorithmes machine learni
 
 - [slides](cours.pdf)
 - [slides au format rapport](cours_article.pdf)
-- [tutoriel sans corrigés](https://lrouviere.github.io/TUTO_ML/), [codes R associés](codes_sans_cor.R)
-- [tutoriel avec corrigés](https://lrouviere.github.io/TUTO_ML/correction/) (pas toujours disponible), [code R associés](codes_avec_cor.R)
+- [tutoriel sans corrigés](https://lrouviere.github.io/TUTO_ML), [codes R associés](codes_sans_cor.R)
+- [tutoriel avec corrigés](https://lrouviere.github.io/TUTO_ML/correction) (pas toujours disponible), [code R associés](codes_avec_cor.R)
 - [tutoriel court](tuto_court_ml.html)
 
 
